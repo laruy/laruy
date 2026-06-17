@@ -1,16 +1,16 @@
 <h1 align="center">Lais Maruyama</h1>
 
 <p align="center">
-  <strong>QA Engineer | Test Automation | CI/CD | Software Quality</strong>
+  <strong>QA Engineer | Test Automation | Mobile, Web & API Testing | CI/CD</strong>
 </p>
 
 <p align="center">
-  Turning tests, pipelines and curiosity into safer releases.
+  Turning quality into confidence through testing, automation and continuous delivery.
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=E11D48&center=true&vCenter=true&width=760&lines=%3E+running+regression+suite...;%3E+validating+mobile+flows...;%3E+checking+API+responses...;%3E+tracking+bugs+before+they+become+chaos...;%3E+learning+DevOps+one+pipeline+at+a+time."
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=700&color=E11D48&center=true&vCenter=true&width=760&lines=Running+regression+checks...;Validating+critical+user+flows...;Testing+APIs%2C+mobile+and+web...;Building+confidence+before+release...;Learning+DevOps+one+pipeline+at+a+time."
     alt="Typing animation"
   />
 </p>
@@ -26,11 +26,52 @@
 
 ---
 
-## `quality_status`
+## About me
 
-```txt
-manual_testing        ████████████████████  active
-test_automation       ██████████████████░░  active
-api_validation        █████████████████░░░  growing
-ci_cd                 ████████████░░░░░░░░  learning
-docker_devops         █████████░░░░░░░░░░░  building
+I am a QA Engineer with experience in manual and automated testing for **mobile**, **web**, **desktop** and **API** applications.
+
+I have a technical and detail-oriented profile, which helps me go beyond simply executing test cases. I like to understand how the system works, analyze risks, validate data, identify fragile flows and contribute to more reliable releases.
+
+My work involves test planning, regression testing, bug tracking, API validation, database checks and collaboration with agile teams across **PR**, **staging** and **production** environments.
+
+I am currently deepening my knowledge in **CI/CD**, **Docker**, **cloud** and **DevOps practices**, connecting test automation with more consistent and trustworthy delivery pipelines.
+
+---
+
+## QA focus
+
+| Area | What I bring |
+|---|---|
+| Manual Testing | Functional, regression, usability and exploratory testing |
+| Test Automation | E2E flows, regression suites and critical path validation |
+| API Testing | Business rules, responses, status codes and data consistency |
+| Mobile QA | Real user flows, release validation and post-deploy checks |
+| CI/CD | Automated checks, quality gates and safer release cycles |
+| DevOps Learning | Docker, pipelines, cloud basics and delivery reliability |
+
+---
+
+## Tech stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cypress-9F1239?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Robot_Framework-991B1B?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/Maestro-B91C1C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GitLab-DC2626?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-E11D48?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-B91C1C?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Elastic_Beanstalk-7F1D1D?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-881337?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Jira-B91C1C?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Testiny-9F1239?style=for-the-badge" />
+</p>
+
+---
+
+## Projects I am building
+
+| Project | What it shows |
+|---|---|
+| **Mobile Flow Automation with Maestro** | Mobile automation with Maestro, simulating real user flows and release smoke tests |
+
+---
