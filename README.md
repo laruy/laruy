@@ -1,10 +1,6 @@
 <h1 align="center">Lais Maruyama</h1>
 
 <p align="center">
-  <strong>QA Engineer | Test Automation | Mobile, Web & API Testing | CI/CD</strong>
-</p>
-
-<p align="center">
   Turning quality into confidence through testing, automation and continuous delivery.
 </p>
 
