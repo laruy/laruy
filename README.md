@@ -34,16 +34,11 @@ I am currently deepening my knowledge in **CI/CD**, **Docker**, **cloud** and **
 
 ---
 
-## QA focus
+## Projects I am building
 
-| Area | What I bring |
+| Project | What it shows |
 |---|---|
-| Manual Testing | Functional, regression, usability and exploratory testing |
-| Test Automation | E2E flows, regression suites and critical path validation |
-| API Testing | Business rules, responses, status codes and data consistency |
-| Mobile QA | Real user flows, release validation and post-deploy checks |
-| CI/CD | Automated checks, quality gates and safer release cycles |
-| DevOps Learning | Docker, pipelines, cloud basics and delivery reliability |
+| **Mobile Flow Automation with Maestro** | Mobile automation with Maestro, simulating real user flows and release smoke tests |
 
 ---
 
@@ -61,13 +56,5 @@ I am currently deepening my knowledge in **CI/CD**, **Docker**, **cloud** and **
   <img src="https://img.shields.io/badge/Jira-B91C1C?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Testiny-9F1239?style=for-the-badge" />
 </p>
-
----
-
-## Projects I am building
-
-| Project | What it shows |
-|---|---|
-| **Mobile Flow Automation with Maestro** | Mobile automation with Maestro, simulating real user flows and release smoke tests |
 
 ---
