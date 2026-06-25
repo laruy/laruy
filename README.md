@@ -38,7 +38,7 @@ I am currently deepening my knowledge in **CI/CD**, **Docker**, **cloud** and **
 
 | Project | What it shows |
 |---|---|
-| **Mobile Flow Automation with Maestro** | Mobile automation with Maestro, simulating real user flows and release smoke tests |
+| **DepoT** | Web system to manage test cases- Uses Prisma, Google Auth, Neon - Actual progress -> Workspace/Invite System built |
 
 ---
 
